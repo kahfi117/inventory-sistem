@@ -1,0 +1,20 @@
+/* DataTable Custom Fit Column */
+table {
+  tr td:last-child {
+    width: 1%;
+    white-space: nowrap;
+  }
+}
+
+.dataTableLayout {
+  table-layout: fixed;
+  width: 100%;
+}
+
+/* Nav-active Active */
+.nav-item {
+  .nav-active:active {
+    color: blue($color: #000000);
+  }
+}
+

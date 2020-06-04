@@ -1,0 +1,15 @@
+/* DataTable Custom Fit Column */
+table thead {
+  text-align: center;
+}
+
+table tr td:last-child {
+  width: 1%;
+  white-space: nowrap;
+}
+
+/* Nav-active Active */
+.nav-item .nav-active:active {
+  color: 0;
+}
+/*# sourceMappingURL=custom.css.map */
